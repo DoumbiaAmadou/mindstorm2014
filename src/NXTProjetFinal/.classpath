@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.lejos.nxt.ldt.LEJOS_LIBRARY_CONTAINER/nxt">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Program Files/leJOS NXJ"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/leJOS NXJ/lib/nxt/classes.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/leJOS NXJ/lib/pc/pctools.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/leJOS NXJ/lib/pc/jtools.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/leJOS NXJ/lib/pc/charting.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/leJOS NXJ/lib/pc/pccomm.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/leJOS NXJ/lib"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
